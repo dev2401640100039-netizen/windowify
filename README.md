@@ -4,6 +4,7 @@ Allows regular JavaScript files to expose global variables and functions when bu
 
 We can find old code written this way:
 
+
 * jquery.js:
   ```javascript
   function jQuery(selector) {
